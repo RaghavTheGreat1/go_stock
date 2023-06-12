@@ -8,7 +8,7 @@ Download the executable file and run
 
 OR
 
-Download & Install GO from go.dev
+Download & Install GO from https://go.dev
 
 Clone this repo & run ```go build go_stock```
 
