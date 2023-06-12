@@ -10,5 +10,5 @@ OR
 
 Download & Install GO from go.dev
 
-Clone this repo & run ```go build go_stock``
+Clone this repo & run ```go build go_stock```
 
